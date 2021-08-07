@@ -3,3 +3,9 @@ data.js
 
 # node_module
 node_modules/*
+
+# ignore download folder
+download/*
+
+# keep .gitkeep
+!download/.gitkeep
